@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:05e08ae9d43283d83841b07ae301c389c9d4118299838788745128a6497bc325
-size 145
+streamlit
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn==1.2.2
+underthesea
+pyvi
+pandas_profiling
+nltk
+pyngrok
+requests
+regex
+joblib
