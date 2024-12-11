@@ -5,13 +5,16 @@ matplotlib==3.7.5
 seaborn==0.13.2
 scikit-learn==1.5.2
 underthesea==6.8.4
-pyvis==0.3.2
+pyvi==0.5.0
 pandas_profiling
-nltk==3.8.1
+nltk==3.9.1
 pyngrok
 requests
 regex
 joblib
+setuptools
+wheel
+pip==24.3.1
 
 
 
